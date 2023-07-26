@@ -2,6 +2,6 @@ Project from the second semester of a graduate-level numerical analysis course. 
 
 Author: Luke Vaughan
 
-Course: MATH 545 Numerical Analysis I (College of Charleston, Spring 2021)
+Course: MATH 645 Numerical Analysis II (College of Charleston, Fall 2021)
 
 Instructor: Daniel Poll
